@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="VisualElement" style="height: 12px; width: 100px; flex-direction: row-reverse; position: absolute; top: 105px; left: 160px;">
+        <ui:Button text="Change Scene" display-tooltip-when-elided="true" name="Button" style="background-color: rgb(190, 112, 13); height: 2px; width: 112px;" />
+        <ui:Button text="SpotLt On/Dim/Off" display-tooltip-when-elided="true" name="ButtonLight" style="height: 1px; width: 132px;" />
+    </ui:VisualElement>
+</ui:UXML>
